@@ -13,4 +13,33 @@ Future Features to be added:
 Will add a leatherboard system with player scores.
 
 Installation:
-Clone the repo: 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/shoaibaziz-afk/Pygame-Asteroids.git
+   cd Asteroids
+   ```
+
+2. **Set up a virtual environment (recommended)**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/WSL
+   .\venv\Scripts\activate   # Windows
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   # Or manually install Pygame:
+   pip install pygame
+   ```
+
+## 🎮 How to Run
+```bash
+python3 main.py
+```
+
+## 🎯 Controls
+- **Arrow Keys**: Move the pointer (WASD)  
+- **Spacebar**: Shoot  
+ 
+
+Made with ❤️ by [Shoaib Aziz](https://github.com/shoaibaziz-afk)
