@@ -23,7 +23,7 @@ Installation:
    ```bash
    python -m venv venv
    source asteroidsvenv/bin/activate  # Linux/WSL
-   .\venv\Scripts\activate   # Windows
+   .\asteroidsvenv\Scripts\activate   # Windows
    ```
 
 3. **Install dependencies**:
