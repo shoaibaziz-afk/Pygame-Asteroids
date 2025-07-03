@@ -28,7 +28,6 @@ Installation:
 
 3. **Install dependencies**:
    ```bash
-   # Or manually install Pygame:
    pip install pygame
    ```
 
