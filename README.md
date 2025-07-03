@@ -22,7 +22,7 @@ Installation:
 2. **Set up a virtual environment (recommended)**:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # Linux/WSL
+   source asteroidsvenv/bin/activate  # Linux/WSL
    .\venv\Scripts\activate   # Windows
    ```
 
